@@ -1,4 +1,4 @@
-# SNCB Image & Reputation Story
+# SNCB Image & Reputation Story V3
 
 Infographie web responsive construite à partir des diapositives 11 à 33 du dashboard Q1–Q2 2026, complétée par les rapports Auxipress Q1/Q2 et les rapports de social listening Akkanto T1/T2.
 
@@ -30,3 +30,8 @@ Le site ne nécessite ni compilation ni serveur. Il fonctionne également en ouv
 ## Remarque
 
 La police est chargée via Google Fonts. Pour un déploiement totalement autonome, remplacez l'import dans `styles.css` par des polices locales ou système.
+
+
+## V3 lisibilité renforcée
+
+Cette version conserve le récit vertical initial et ajoute les détails utiles des rapports Auxipress et Akkanto. La taille minimale des textes, les contrastes, les espacements et la hiérarchie des chiffres ont été renforcés pour la lecture sur écran et en projection.
