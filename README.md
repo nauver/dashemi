@@ -1,6 +1,6 @@
 # SNCB Image & Reputation Story
 
-Infographie web responsive construite à partir des diapositives 11 à 33 du dashboard Q1–Q2 2026.
+Infographie web responsive construite à partir des diapositives 11 à 33 du dashboard Q1–Q2 2026, complétée par les rapports Auxipress Q1/Q2 et les rapports de social listening Akkanto T1/T2.
 
 ## Déploiement sur GitHub Pages
 
